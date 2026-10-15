@@ -2,7 +2,7 @@
 
 Maqueta web navegable de una consola unificada de atención ciudadana para una demostración funcional. Simula una capa de experiencia de usuario construida sobre Microsoft Dynamics 365; no realiza integraciones reales ni envía datos a sistemas externos.
 
-**Demo publicada:** <https://leopoldosalceda.github.io/lantikatenci-n/>
+**Demo publicada:** <https://raw.githack.com/leopoldosalceda/lantikatenci-n/main/docs/index.html>
 
 ## Arranque
 
